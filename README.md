@@ -42,6 +42,11 @@ cd task-management-api
 ```bash
 Composer install
 
+### Configure Database
+
+```bash
+create a dababase and configure it 
+
 ### Api endpoint
 
 [http://127.0.0.1:8000/api/v1;
