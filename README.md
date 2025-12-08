@@ -37,9 +37,13 @@ A modern, scalable **Task Management REST API** built with **Laravel**, followin
 git clone https://github.com/mamoonbgc036/task-management-api.git
 cd task-management-api
 
-### 1️⃣ Install Dependency
+### Install Dependency
 
 ```bash
 Composer install
+
+### Api endpoint
+
+[http://127.0.0.1:8000/api/v1;
 
 
