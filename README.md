@@ -34,7 +34,7 @@ A modern, scalable **Task Management REST API** built with **Laravel**, followin
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/mamoonbgc036/task-management-api.git
+git clone https://github.com/mamoonbgc036/iNiLabs-bk
 cd task-management-api
 
 ### Install Dependency
